@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Tamboong, but most people call me Emman.
 - 👀 I’m interested in a lot of things, but mostly ones that are tech-related.
-- 🌱 I’m currently a first year student at Batangas State University (Alangilan Campus) and I'm getting a Bachelor of Science in Computer Engineering.
+- 🌱 I’m currently a second year student at Batangas State University (Alangilan Campus) and I'm getting a Bachelor of Science in Computer Engineering.
 - 📫 I'm online most of the time, so you can contact me if you feel so. 
 
 <!---
